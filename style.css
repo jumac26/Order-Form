@@ -1,0 +1,100 @@
+body{
+	background-color: #99bbad;
+}
+
+img{
+	width:60%;
+}
+
+.checkBOXmiddle{
+	vertical-align: middle;
+}
+
+.variantTitle{
+	
+}
+
+#submitBUTTON{
+	text-align: right;
+	padding-right: 5%;
+}
+
+.header{
+	padding-left: 5%;
+	background-color:  #99bbad;
+}
+
+#A{
+	background-color: wheat;
+	margin:auto;
+	margin-top: 5%;
+	width: 60%;
+	height: 80%;
+}
+
+#A1{
+	padding-top: 2%;
+	text-align: center;
+}
+
+#A2{
+	
+}
+
+.A2{
+	display: flex;
+	justify-content: space-between
+}
+
+#A2_2{
+	padding-top: 10%;
+}
+
+#A2_3{
+	padding-top: 10%;
+}
+
+#A2_4{
+	padding-top: 10%;
+}
+
+.A2_1A{
+	width:10%;
+	vertical-align: middle;
+	padding-top: 5%;
+	padding-left: 5%;
+}
+
+.A2_1B{
+	width:25%;
+}
+
+.A2_1C{
+	width:40%;
+	padding-right: 5%;
+}
+
+.A2_1D{
+	width:25%;
+	padding-top: 5%;
+	padding-right:5%;
+}
+
+div.A3{
+	display: flex;
+	justify-content: space-between;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+#A4{
+	padding-top: 10%;
+	text-align: right;
+	padding-bottom: 2%;
+	padding-right: 5%;
+}
+
+#TotalPayment{
+	width: 50px;
+	border: black;
+}
